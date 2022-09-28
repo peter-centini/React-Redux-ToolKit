@@ -1,0 +1,46 @@
+{
+  "pictures": [
+    {
+      "artist": "JPP ",
+      "year": "2020",
+      "photo": "https://picsum.photos/400/415",
+      "id": 2
+    },
+    {
+      "artist": "Antoine de Maximi",
+      "year": "2021",
+      "photo": "https://picsum.photos/400/455",
+      "id": 3
+    },
+    {
+      "artist": "rail de chemin de fer",
+      "year": "1990",
+      "photo": "https://picsum.photos/400/305",
+      "id": 4
+    },
+    {
+      "artist": "alibi",
+      "year": "2313",
+      "photo": "https://picsum.photos/400/390",
+      "id": 5
+    },
+    {
+      "artist": "artiste",
+      "year": "lul",
+      "photo": "https://picsum.photos/400/483",
+      "id": 6
+    },
+    {
+      "artist": "adeline",
+      "year": "3000",
+      "photo": "https://picsum.photos/400/398",
+      "id": 7
+    },
+    {
+      "artist": "peter",
+      "year": "2000",
+      "photo": "https://picsum.photos/400/402",
+      "id": 8
+    }
+  ]
+}
