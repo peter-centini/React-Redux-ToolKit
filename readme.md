@@ -33,4 +33,4 @@ URL : [http://localhost:5000/picture]
 ### <p align="center"> screen du projet</p>
 
 <p align="center">
-<img src="https://github.com/peter-centini/React-Redux-ToolKit/screen.png" width="350" title="screen du projet"></p>
+<img src="https://github.com/peter-centini/React-Redux-ToolKit/blob/main/screen.png" width="350" title="screen du projet"></p>
